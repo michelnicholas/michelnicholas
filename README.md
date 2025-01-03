@@ -15,8 +15,9 @@ Feel free to reach out via:
 ## 🌟 Highlights
 
 ### Featured Projects
-- **[NBA Player Props](#)**: Find quick NBA player prop value
-- **[DrumKit](#)**: Included in the spotlight projects
+- **[NBA Player Props](https://github.com/michelnicholas/PlayerProps)**: Find quick NBA player prop value
+- **[DrumKit](https://github.com/michelnicholas/drumkit)**: Included in the spotlight projects
+- **[DiceGame](https://github.com/michelnicholas/DiceGame)**: Included in the spotlight projects
 
 ### Open Source Contributions
 - Contributing to [open-source project name or link].
