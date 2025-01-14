@@ -31,7 +31,7 @@ Feel free to reach out via:
 Here are some tools and technologies I frequently work with:
 - Programming Languages: [JavaScript]
 - Frameworks: [React, Node.js,Express.js]
-- Tools: [e.g., Docker, Jenkins, etc.]
+- Tools: [Github Actions, Docker, Jenkins]
 
 ---
 
