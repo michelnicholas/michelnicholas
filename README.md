@@ -19,9 +19,6 @@ Feel free to reach out via:
 - **[DrumKit](https://github.com/michelnicholas/drumkit)**: Included in the spotlight projects
 - **[DiceGame](https://github.com/michelnicholas/DiceGame)**: Included in the spotlight projects
 
-### Open Source Contributions
-- Contributing to [open-source project name or link].
-
 ### Learning and Experimentation
 - Exploring [specific technologies, languages, or concepts].
 
