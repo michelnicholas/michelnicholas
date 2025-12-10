@@ -8,7 +8,7 @@ Hello! 👋 Welcome to my GitHub repository where I share projects, ideas, and i
 Feel free to reach out via:
 - **Email**: [michelnicholas1993@gmail.com]
 - **LinkedIn**: [https://www.linkedin.com/in/michel-nicholas-65166112a/]
-- **Twitter** [https://x.com/WorldwideHaven]
+
 
 ---
 
